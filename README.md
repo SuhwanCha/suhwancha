@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 
 2022 Goals
 - Contributing to open source projects at least twice a month.
+- Deep diving into Flutter and Bloc.
 - Solving algorithm problems every other day.
 - Playing the 1st movement of Beethoven's Violin Sonata No.5 well.
 - Losting 20lbs and 300lbs Squat. (240lbs/300lbs)
