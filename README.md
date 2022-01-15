@@ -1,13 +1,12 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Flutter and laravel
 - 👯 I’m looking to collaborate on Flutter and Bloc project
-- 📫 How to reach me: email me
+- 📫 How to reach me: suhw4n@gmail.com
 - 😄 Pronouns: he/him/his
+-  Hobby: Playing the violin, studying classical music, strength training, cycling, hiking
 
 
 2022 Goals
