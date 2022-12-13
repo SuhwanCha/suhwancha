@@ -12,6 +12,7 @@
 - Learning [Go Lang](https://go.dev/)
 - Completion open source projects!
 
-✝️ Day off on Sunday
 
-You are altogether beautiful, my darling; there is no flaw in you.
+Because your love is better than life, my lips will glorify you.
+I will praise you as long as I live, and in your name I will lift up my hands.
+Psalms 63:3-4
