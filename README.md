@@ -13,6 +13,5 @@
 - Completion open source projects!
 
 
-Because your love is better than life, my lips will glorify you.
-I will praise you as long as I live, and in your name I will lift up my hands.
-Psalms 63:3-4
+but those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint.
+Isaiah 40:31 NIV
